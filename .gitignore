@@ -1,3 +1,7 @@
+#Bunary files or other files.
+*.csv
+*.xlsx
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
